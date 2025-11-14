@@ -24,7 +24,7 @@
 > - The structure of the repository and this README already reflect the final code organization for reproducibility.
 
 Planned release items:
-
+- [x] Datasets
 - [x] Project structure and documentation  
 - [x] Method overview figures  
 - [ ] Training scripts for syntactic encoder and fusion model  
