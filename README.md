@@ -38,19 +38,19 @@ Planned release items:
 
 ### 1. Overall SynSem-ICL Framework
 
-![SynSem-ICL Framework](Figures/synsem_icl_framework.png)
+![SynSem-ICL Framework](Figures/SynSem-ICL_framework.pdf)
 
 > *Figure 1. Overall architecture of SynSem-ICL, including syntactic encoder, cross-attention fusion, and dual-similarity contrastive training.*
 
 ### 2. Structure-Aware Syntactic Encoder
 
-![Syntactic Encoding Pipeline](Figures/syntactic_encoding_pipeline.png)
+![Syntactic Encoding Pipeline](Figures/cross_attention_fusion.pdf)
 
 > *Figure 2. Syntactic encoding pipeline from raw text to structure-aware sentence representations, based on a Graph Transformer with tree-distance and dependency-type biases.*
 
 ### 3. Bidirectional Cross-Attention Fusion
 
-![Cross-Attention Fusion](Figures/cross_attention_fusion.png)
+![Cross-Attention Fusion](Figures/syntactic_encoding_pipeline.pdf)
 
 > *Figure 3. Bidirectional cross-attention between semantic and syntactic representations, followed by multi-granularity pooling to obtain the fused sentence representation.*
 
